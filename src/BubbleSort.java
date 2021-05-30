@@ -26,7 +26,6 @@ public class BubbleSort {
                     array[i - 1] = array[i - 1] ^ array[i];
                 }
             }
-
             countIterations++;
         }
 

@@ -15,7 +15,6 @@ public class Main {
 
         System.out.println("Sorted array: ");
         BubbleSort.printArray(array);
-
         System.out.println("Numbers of iterations for sorting array is: " + BubbleSort.countIterations);
     }
 }
